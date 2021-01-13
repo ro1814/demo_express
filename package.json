@@ -1,0 +1,23 @@
+{
+  "name": "demo_express",
+  "version": "1.0.0",
+  "description": "demo express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ro1814/demo_express.git"
+  },
+  "author": "Rodolfo N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ro1814/demo_express/issues"
+  },
+  "homepage": "https://github.com/ro1814/demo_express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
